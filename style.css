@@ -1,0 +1,22 @@
+.img-fluid{
+width: 100%;
+    height: 450px;
+    margin-top: 20px;
+    background-size: cover;
+}
+.card-group{
+    margin-top: 20px;
+
+
+}
+.card{
+  
+    padding: 5px;
+    border: none;
+}
+
+.cardimg{
+    width: 80%;
+    margin: auto;
+   
+}
